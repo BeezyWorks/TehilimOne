@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">תהילים</string>
+    <string name="tehilimTitle">Psalms</string>
+    <string name="dayOfMonthTitle">Day of Month</string>
+    <string name="dayOfWeekTitle">Day of Week</string>
+    <string name="yohrtzeitTitle">Yorhtzeit</string>
+    <string name="sickPrayerTitle">Healing</string>
+    <string name="parnasaPrayerTitle">Sustenance</string>
+    <string name="shidduchPrayerTitle">Finding a Spouse</string>
+    <string name="eisTzaraTitle">Salvation</string>
+    <string name="childbearingPrayerTitle">Conception</string>
+    <string name="pidyonShvuimTitle">Freeing Captives</string>
+    <string name="teshuvaPrayerTitle">Repentance</string>
+    <string name="toggleRightDrawerTitle">Open/Close drawer</string>
+<string name="typefaceString">Typeface</string>
+
+
+
+</resources>

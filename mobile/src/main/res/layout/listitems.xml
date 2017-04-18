@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="48dp"
+    android:background="?attr/selectableItemBackground"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/navTextItem"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:minHeight="48dp"
+        android:gravity="center_vertical"
+        android:layout_centerVertical="true"
+        android:paddingLeft="16dp"
+        android:text="Title"
+        android:paddingRight="16dp"
+        android:textColor="#D9000000"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-medium"
+        android:layout_alignParentRight="true"/>
+
+    <ImageView
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="16dp"
+        android:visibility="invisible"
+        android:tint="@color/material_blue_grey_800"
+        android:id="@+id/navItemImage"/>
+
+</RelativeLayout>
+

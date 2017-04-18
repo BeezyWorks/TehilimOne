@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chapterKey">chapterKey</string>
+    <string name="typefaceKey">typefaceKey</string>
+
+    <string name="longpressKey">longpress:key</string>
+    <string name="doubleTapKey">doubletap:key</string>
+
+    <string-array name="typefaceChoices">
+        <item>TaameyFrankCLM.ttf</item>
+        <item>DavidCLM-Medium.ttf</item>
+        <item>HadasimCLM-Regular.ttf</item>
+        <item>Mekorot-Vilna.ttf</item>
+    </string-array>
+
+    <string name="sizeKey">key:textSize</string>
+    <string name="centeredKey">key:centered</string>
+    <string name="instructionsKey">key:instructions</string>
+</resources>
